@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>8023v.com/</loc>
+    <loc>https://8023v.com/</loc>
     <lastmod>2023-02-08T11:00:42+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="8023v.com/zh-cn/"
+                href="https://8023v.com/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="8023v.com/"
+                href="https://8023v.com/"
                 />
   </url><url>
-    <loc>8023v.com/posts/</loc>
+    <loc>https://8023v.com/posts/</loc>
     <lastmod>2023-02-08T11:00:42+08:00</lastmod>
   </url><url>
-    <loc>8023v.com/tags/</loc>
+    <loc>https://8023v.com/tags/</loc>
     <lastmod>2023-02-08T11:00:42+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="8023v.com/zh-cn/tags/"
+                href="https://8023v.com/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="8023v.com/tags/"
+                href="https://8023v.com/tags/"
                 />
   </url><url>
-    <loc>8023v.com/tags/%E6%97%85%E6%B8%B8/</loc>
+    <loc>https://8023v.com/tags/%E6%97%85%E6%B8%B8/</loc>
     <lastmod>2023-02-08T11:00:42+08:00</lastmod>
   </url><url>
-    <loc>8023v.com/tags/%E6%B3%B0%E5%9B%BD/</loc>
+    <loc>https://8023v.com/tags/%E6%B3%B0%E5%9B%BD/</loc>
     <lastmod>2023-02-08T11:00:42+08:00</lastmod>
   </url><url>
-    <loc>8023v.com/2023/02/%E6%B3%B0%E5%9B%BD%E6%B8%85%E8%BF%88/</loc>
+    <loc>https://8023v.com/2023/02/%E6%B3%B0%E5%9B%BD%E6%B8%85%E8%BF%88/</loc>
     <lastmod>2023-02-08T11:00:42+08:00</lastmod>
   </url>
 </urlset>

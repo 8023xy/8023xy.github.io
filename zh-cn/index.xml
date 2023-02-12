@@ -2,8 +2,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gao Bo</title>
-    <link>8023v.com/zh-cn/</link>
+    <link>https://8023v.com/zh-cn/</link>
     <description>Recent content on Gao Bo</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="8023v.com/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://8023v.com/zh-cn/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
