@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://8023xy.github.io/zh-cn/</loc>
+    <loc>http://8023v.com/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://8023xy.github.io/"
+                href="http://8023v.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://8023xy.github.io/zh-cn/"
+                href="http://8023v.com/zh-cn/"
                 />
   </url><url>
-    <loc>https://8023xy.github.io/zh-cn/tags/</loc>
+    <loc>http://8023v.com/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://8023xy.github.io/tags/"
+                href="http://8023v.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://8023xy.github.io/zh-cn/tags/"
+                href="http://8023v.com/zh-cn/tags/"
                 />
   </url>
 </urlset>
