@@ -2,42 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://8023v.com/</loc>
+    <loc>http://8023v.com/</loc>
     <lastmod>2023-02-08T11:00:42+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://8023v.com/zh-cn/"
+                href="http://8023v.com/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://8023v.com/"
+                href="http://8023v.com/"
                 />
   </url><url>
-    <loc>https://8023v.com/posts/</loc>
+    <loc>http://8023v.com/posts/</loc>
     <lastmod>2023-02-08T11:00:42+08:00</lastmod>
   </url><url>
-    <loc>https://8023v.com/tags/</loc>
+    <loc>http://8023v.com/tags/</loc>
     <lastmod>2023-02-08T11:00:42+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://8023v.com/zh-cn/tags/"
+                href="http://8023v.com/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://8023v.com/tags/"
+                href="http://8023v.com/tags/"
                 />
   </url><url>
-    <loc>https://8023v.com/tags/%E6%97%85%E6%B8%B8/</loc>
+    <loc>http://8023v.com/tags/%E6%97%85%E6%B8%B8/</loc>
     <lastmod>2023-02-08T11:00:42+08:00</lastmod>
   </url><url>
-    <loc>https://8023v.com/tags/%E6%B3%B0%E5%9B%BD/</loc>
+    <loc>http://8023v.com/tags/%E6%B3%B0%E5%9B%BD/</loc>
     <lastmod>2023-02-08T11:00:42+08:00</lastmod>
   </url><url>
-    <loc>https://8023v.com/2023/02/%E6%B3%B0%E5%9B%BD%E6%B8%85%E8%BF%88/</loc>
+    <loc>http://8023v.com/2023/02/%E6%B3%B0%E5%9B%BD%E6%B8%85%E8%BF%88/</loc>
     <lastmod>2023-02-08T11:00:42+08:00</lastmod>
+  </url><url>
+    <loc>http://8023v.com/tags/%E6%97%A5%E5%B8%B8/</loc>
+    <lastmod>2021-07-19T07:28:27+08:00</lastmod>
+  </url><url>
+    <loc>http://8023v.com/2021/07/%E8%87%B4%E4%B8%80%E4%BD%8D%E8%BF%87%E8%B7%AF%E7%9A%84%E5%A5%B3%E5%AD%90/</loc>
+    <lastmod>2021-07-19T07:28:27+08:00</lastmod>
   </url>
 </urlset>
