@@ -2,24 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-<<<<<<< HEAD
     <loc>8023v.com/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
                 href="8023v.com/"
-=======
-    <loc>https://8023v.com/zh-cn/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://8023v.com/"
->>>>>>> 52e93c0cfbd7242ea80f1de40988c979bf34856d
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-<<<<<<< HEAD
                 href="8023v.com/zh-cn/"
                 />
   </url><url>
@@ -28,25 +19,11 @@
                 rel="alternate"
                 hreflang="en-us"
                 href="8023v.com/tags/"
-=======
-                href="https://8023v.com/zh-cn/"
-                />
-  </url><url>
-    <loc>https://8023v.com/zh-cn/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://8023v.com/tags/"
->>>>>>> 52e93c0cfbd7242ea80f1de40988c979bf34856d
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-<<<<<<< HEAD
                 href="8023v.com/zh-cn/tags/"
-=======
-                href="https://8023v.com/zh-cn/tags/"
->>>>>>> 52e93c0cfbd7242ea80f1de40988c979bf34856d
                 />
   </url>
 </urlset>

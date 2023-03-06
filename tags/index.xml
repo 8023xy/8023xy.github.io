@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Tags on IdeaStorm</title>
     <link>8023v.com/tags/</link>
     <description>Recent content in Tags on IdeaStorm</description>
@@ -13,51 +12,24 @@
       <pubDate>Thu, 16 Feb 2023 00:01:25 +0800</pubDate>
       
       <guid>8023v.com/tags/%E6%97%A5%E5%B8%B8/</guid>
-=======
-    <title>Tags on Gao Bo</title>
-    <link>https://8023v.com/tags/</link>
-    <description>Recent content in Tags on Gao Bo</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 16 Feb 2023 00:01:25 +0800</lastBuildDate><atom:link href="https://8023v.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>日常</title>
-      <link>https://8023v.com/tags/%E6%97%A5%E5%B8%B8/</link>
-      <pubDate>Thu, 16 Feb 2023 00:01:25 +0800</pubDate>
-      
-      <guid>https://8023v.com/tags/%E6%97%A5%E5%B8%B8/</guid>
->>>>>>> 52e93c0cfbd7242ea80f1de40988c979bf34856d
       <description></description>
     </item>
     
     <item>
       <title>旅游</title>
-<<<<<<< HEAD
       <link>8023v.com/tags/%E6%97%85%E6%B8%B8/</link>
       <pubDate>Wed, 08 Feb 2023 11:00:42 +0800</pubDate>
       
       <guid>8023v.com/tags/%E6%97%85%E6%B8%B8/</guid>
-=======
-      <link>https://8023v.com/tags/%E6%97%85%E6%B8%B8/</link>
-      <pubDate>Wed, 08 Feb 2023 11:00:42 +0800</pubDate>
-      
-      <guid>https://8023v.com/tags/%E6%97%85%E6%B8%B8/</guid>
->>>>>>> 52e93c0cfbd7242ea80f1de40988c979bf34856d
       <description></description>
     </item>
     
     <item>
       <title>泰国</title>
-<<<<<<< HEAD
       <link>8023v.com/tags/%E6%B3%B0%E5%9B%BD/</link>
       <pubDate>Wed, 08 Feb 2023 11:00:42 +0800</pubDate>
       
       <guid>8023v.com/tags/%E6%B3%B0%E5%9B%BD/</guid>
-=======
-      <link>https://8023v.com/tags/%E6%B3%B0%E5%9B%BD/</link>
-      <pubDate>Wed, 08 Feb 2023 11:00:42 +0800</pubDate>
-      
-      <guid>https://8023v.com/tags/%E6%B3%B0%E5%9B%BD/</guid>
->>>>>>> 52e93c0cfbd7242ea80f1de40988c979bf34856d
       <description></description>
     </item>
     
