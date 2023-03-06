@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
+    <title>IdeaStorm</title>
+    <link>8023v.com/zh-cn/</link>
+    <description>Recent content on IdeaStorm</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="8023v.com/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+=======
     <title>Gao Bo</title>
     <link>https://8023v.com/zh-cn/</link>
     <description>Recent content on Gao Bo</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://8023v.com/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 52e93c0cfbd7242ea80f1de40988c979bf34856d
   </channel>
 </rss>
