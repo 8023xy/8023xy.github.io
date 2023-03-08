@@ -5,16 +5,16 @@
     <link>https://8023v.com/</link>
     <description>Recent content on IdeaStorm</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 08 Mar 2023 08:15:38 +0800</lastBuildDate><atom:link href="https://8023v.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Mar 2023 19:49:05 +0800</lastBuildDate><atom:link href="https://8023v.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Awesome ChatGPT Prompts</title>
       <link>https://8023v.com/2023/03/awesome-chatgpt-prompts/</link>
-      <pubDate>Wed, 08 Mar 2023 08:15:38 +0800</pubDate>
+      <pubDate>Wed, 08 Mar 2023 19:49:05 +0800</pubDate>
       
       <guid>https://8023v.com/2023/03/awesome-chatgpt-prompts/</guid>
-      <description>Original text address：https://github.com/f/awesome-chatgpt-prompts#act-as-a-stand-up-comedian
+      <description>Original text address : https://github.com/f/awesome-chatgpt-prompts#act-as-a-stand-up-comedian
 Act as a Linux Terminal Contributed by: @f Reference: https://www.engraved.blog/building-a-virtual-machine-inside/
-I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so. When I need to tell you something in English, I will do so by putting text inside curly brackets {like this}.</description>
+I want you to act as a linux terminal. I will type commands and you will reply with what the terminal should show. I want you to only reply with the terminal output inside one unique code block, and nothing else. do not write explanations. do not type commands unless I instruct you to do so.</description>
     </item>
     
   </channel>
